@@ -1,7 +1,3 @@
-Here's a possible description for your chat app on GitHub:
-
----
-
 # Full-Stack Chat Application
 
 **A real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js).** This project provides a seamless chatting experience with modern features, making it ideal for both personal and professional use.
@@ -26,7 +22,3 @@ Here's a possible description for your chat app on GitHub:
 2. Install dependencies for both frontend and backend.
 3. Set up the `.env` file with necessary environment variables (e.g., MongoDB URI).
 4. Run the development server to get started.
-
----
-
-Feel free to customize this description based on your app's specific features or functionality!
