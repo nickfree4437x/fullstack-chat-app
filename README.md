@@ -41,6 +41,7 @@ A modern, real-time chat application built using the MERN stack (MongoDB, Expres
 - **Message Reactions**: Add emojis to messages for quick responses.  
 - **Push Notifications**: Get notified of new messages even when the app is closed.
 
-![Screenshot (910)](https://github.com/user-attachments/assets/1aff8e17-02c4-4b2b-943a-f0442faa1dc3)
+#### **Project Screenshot**:
 
+![Screenshot (911)](https://github.com/user-attachments/assets/4cbfc070-8533-4f6e-bf63-83bdb9d013a8)
 
