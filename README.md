@@ -34,8 +34,13 @@ A modern, real-time chat application built using the MERN stack (MongoDB, Expres
    ```
 5. Open your browser and navigate to `http://localhost:3000`.
 
+
 #### **Future Improvements**:
 - **Media Sharing**: Send images, videos, and documents in chats.  
 - **Typing Indicators**: Show when other users are typing in real time.  
 - **Message Reactions**: Add emojis to messages for quick responses.  
 - **Push Notifications**: Get notified of new messages even when the app is closed.
+
+![Screenshot (910)](https://github.com/user-attachments/assets/1aff8e17-02c4-4b2b-943a-f0442faa1dc3)
+
+
